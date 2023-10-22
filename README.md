@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hiya 👋
+I am studying Computer Science with Artificial Intelligence MEng  
+I have a keen intrest in AI, app development and game development  
+I have experience in Java, Python, Unity and React  
+Currently I'm learning Haskell (pain)  
 
 <!--
 **casperUoS/casperUoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
