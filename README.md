@@ -1,8 +1,7 @@
 ### Hiya 👋
-I am studying Computer Science with Artificial Intelligence MEng  
-I have a keen interest in AI, app development and game development  
-I have experience in Java, Python, Unity and React  
-Currently, I'm learning Haskell (pain)  
+I am a PhD student at the University of Southamptom, researching visual semantics in intelligent agent systems
+I also do web development in my personal projects
+I have experience in React, Next.js, Java, Python, Postgres
 
 <!--
 **casperUoS/casperUoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
