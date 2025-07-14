@@ -1,7 +1,7 @@
 ### Hiya 👋
-I am a PhD student at the University of Southamptom, researching visual semantics in intelligent agent systems
-I also do web development in my personal projects
-I have experience in React, Next.js, Java, Python, Postgres
+I am a PhD student at the University of Southamptom, researching visual semantics in intelligent agent systems <br>
+I also do web development in my personal projects <br>
+I have experience in React, Next.js, Java, Python, Postgres <br>
 
 <!--
 **casperUoS/casperUoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
